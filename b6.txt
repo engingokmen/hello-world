@@ -1,2 +1,9 @@
 b6 code
+<<<<<<< HEAD
 another line
+=======
+<<<<<<< HEAD
+=======
+another line
+>>>>>>> b6c1
+>>>>>>> xyz
